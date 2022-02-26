@@ -4,4 +4,4 @@ This is a sample file.
 
 one more line written for update
 
-added the text on update branch of git
+matrix to deleted
